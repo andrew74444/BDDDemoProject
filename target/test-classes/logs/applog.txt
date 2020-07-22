@@ -1,0 +1,145 @@
+INFO    2020-07-20 06:42:01,056 [pool-1-thread-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-20 06:42:03,308 [pool-1-thread-4] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-20 06:42:03,484 [pool-1-thread-1] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-20 06:42:06,817 [pool-1-thread-3] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-20 06:42:22,076 [pool-1-thread-1] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-20 06:42:23,451 [pool-1-thread-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-20 06:42:23,519 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-20 06:42:26,319 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-20 06:42:32,087 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-20 06:42:36,192 [pool-1-thread-1] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-20 06:42:39,130 [pool-1-thread-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-20 06:42:39,210 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-20 06:42:40,297 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-20 06:42:43,580 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-20 06:42:53,314 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-20 06:42:54,852 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho@gmail.com
+INFO    2020-07-20 06:42:55,972 [pool-1-thread-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-20 06:42:56,522 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : abc1234
+INFO    2020-07-20 06:42:58,059 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 999 999 9999
+INFO    2020-07-20 06:42:59,811 [pool-1-thread-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : customers Link
+INFO    2020-07-20 06:42:59,855 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-20 06:43:04,218 [pool-1-thread-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-20 06:43:06,183 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho1234@gmail.com
+INFO    2020-07-20 06:43:08,490 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : xyz1234
+INFO    2020-07-20 06:43:10,053 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 923 999 3456
+INFO    2020-07-20 06:43:11,323 [pool-1-thread-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : pricing Link
+INFO    2020-07-20 06:43:15,840 [pool-1-thread-4] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-20 06:43:19,103 [pool-1-thread-3] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-20 06:43:22,016 [pool-1-thread-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 17:38:29,536 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 17:38:29,536 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 17:38:29,740 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 17:38:30,771 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 17:38:49,506 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 17:38:50,133 [TestNG-test=Test-1] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 17:38:51,420 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 17:38:59,807 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 17:39:01,061 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 17:39:06,921 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 17:39:06,983 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 17:39:07,177 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 17:39:09,438 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 17:39:11,281 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 17:39:21,977 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 17:39:23,742 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 17:39:25,993 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho1234@gmail.com
+INFO    2020-07-21 17:39:27,453 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : xyz1234
+INFO    2020-07-21 17:39:27,925 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho@gmail.com
+INFO    2020-07-21 17:39:29,013 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 923 999 3456
+INFO    2020-07-21 17:39:29,791 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : abc1234
+INFO    2020-07-21 17:39:30,448 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : pricing Link
+INFO    2020-07-21 17:39:31,204 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 999 999 9999
+INFO    2020-07-21 17:39:32,253 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 17:39:32,257 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : customers Link
+INFO    2020-07-21 17:39:50,875 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 17:40:00,687 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 17:40:03,230 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 17:40:12,876 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:09:43,428 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:09:43,428 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:09:43,428 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:09:43,428 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:10:05,356 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 18:10:08,912 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:10:11,182 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 18:10:11,495 [TestNG-test=Test-1] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:10:29,755 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 18:10:35,141 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 18:10:45,527 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 18:10:47,379 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 18:10:50,321 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 18:10:50,717 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:10:51,046 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:10:51,324 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho1234@gmail.com
+INFO    2020-07-21 18:10:52,993 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : xyz1234
+INFO    2020-07-21 18:10:53,969 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 923 999 3456
+INFO    2020-07-21 18:10:55,060 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : pricing Link
+INFO    2020-07-21 18:11:06,092 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 18:11:07,047 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho@gmail.com
+INFO    2020-07-21 18:11:07,958 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : abc1234
+INFO    2020-07-21 18:11:08,726 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 999 999 9999
+INFO    2020-07-21 18:11:10,278 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : customers Link
+INFO    2020-07-21 18:11:17,589 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:11:20,423 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:11:24,638 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:11:30,465 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:11:48,784 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:19:43,809 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:19:44,640 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:19:44,678 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:19:44,886 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:20:06,840 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 18:20:06,987 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 18:20:07,667 [TestNG-test=Test-1] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:20:13,618 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:20:15,769 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 18:20:32,709 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 18:20:35,895 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 18:20:40,333 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 18:20:44,164 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:20:49,368 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 18:20:52,663 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho@gmail.com
+INFO    2020-07-21 18:20:54,165 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : abc1234
+INFO    2020-07-21 18:20:54,683 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 18:20:55,760 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 999 999 9999
+INFO    2020-07-21 18:20:57,273 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : customers Link
+INFO    2020-07-21 18:20:58,751 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho1234@gmail.com
+INFO    2020-07-21 18:21:02,591 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : xyz1234
+INFO    2020-07-21 18:21:04,059 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 923 999 3456
+INFO    2020-07-21 18:21:04,100 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:21:05,111 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : pricing Link
+INFO    2020-07-21 18:21:19,953 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:21:20,338 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:21:20,378 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:21:29,574 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:21:45,144 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:24:53,908 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:24:53,909 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:24:53,909 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:24:53,908 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:25:11,837 [TestNG-test=Test-1] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:25:12,836 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:25:13,110 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 18:25:16,258 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Sales
+INFO    2020-07-21 18:25:25,920 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 18:25:28,602 [TestNG-test=Test-1] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:25:29,345 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : products
+INFO    2020-07-21 18:25:30,550 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 18:25:31,522 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:25:33,763 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : CRM
+INFO    2020-07-21 18:25:40,897 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 18:25:43,418 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho1234@gmail.com
+INFO    2020-07-21 18:25:45,671 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : xyz1234
+INFO    2020-07-21 18:25:46,245 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Name entered the value as : Name
+INFO    2020-07-21 18:25:47,287 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 923 999 3456
+INFO    2020-07-21 18:25:48,751 [TestNG-test=Test-3] com.projectName.companyName.PageObjects.BasePage  - Clicking on : pricing Link
+INFO    2020-07-21 18:25:49,783 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : email entered the value as : zoho@gmail.com
+INFO    2020-07-21 18:25:50,931 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : Password entered the value as : abc1234
+INFO    2020-07-21 18:25:53,000 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Typing in : mobile entered the value as : 999 999 9999
+INFO    2020-07-21 18:25:54,265 [TestNG-test=Test-4] com.projectName.companyName.PageObjects.BasePage  - Clicking on : customers Link
+INFO    2020-07-21 18:25:59,216 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Driver Initialized !!!
+INFO    2020-07-21 18:26:06,165 [TestNG-test=Test-3] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:26:12,162 [TestNG-test=Test-2] com.projectName.companyName.PageObjects.BasePage  - Clicking on : Login Link
+INFO    2020-07-21 18:26:12,887 [TestNG-test=Test-4] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2020-07-21 18:26:31,707 [TestNG-test=Test-2] com.projectName.cucumber.steps.BaseSteps  - Test Execution Completed !!!

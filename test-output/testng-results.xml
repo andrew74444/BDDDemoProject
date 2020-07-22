@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88578" started-at="2020-07-20T01:11:53Z" finished-at="2020-07-20T01:13:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88578" started-at="2020-07-20T01:11:53Z" finished-at="2020-07-20T01:13:22Z">
+      <class name="com.projectName.cucumber.runners.ValidateCRMFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.projectName.cucumber.runners.ValidateCRMFeatureRunner@4883b407]" name="runCukes" duration-ms="88523" started-at="2020-07-20T06:41:53Z" finished-at="2020-07-20T06:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.projectName.cucumber.runners.ValidateCRMFeatureRunner -->
+      <class name="com.projectName.cucumber.runners.ValidateCustomerFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.projectName.cucumber.runners.ValidateCustomerFeatureRunner@39c0f4a]" name="runCukes" duration-ms="82347" started-at="2020-07-20T06:41:53Z" finished-at="2020-07-20T06:43:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.projectName.cucumber.runners.ValidateCustomerFeatureRunner -->
+      <class name="com.projectName.cucumber.runners.LoginFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.projectName.cucumber.runners.LoginFeatureRunner@6d4b1c02]" name="runCukes" duration-ms="43127" started-at="2020-07-20T06:41:53Z" finished-at="2020-07-20T06:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.projectName.cucumber.runners.LoginFeatureRunner -->
+      <class name="com.projectName.cucumber.runners.ValidatePricingFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.projectName.cucumber.runners.ValidatePricingFeatureRunner@7d9d1a19]" name="runCukes" duration-ms="85610" started-at="2020-07-20T06:41:53Z" finished-at="2020-07-20T06:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.projectName.cucumber.runners.ValidatePricingFeatureRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
